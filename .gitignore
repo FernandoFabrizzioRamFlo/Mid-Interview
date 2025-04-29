@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Entorno virtual (puede variar el nombre)
+devEnv/
+venv/
+.env/
+
+# Archivos de entorno y configuración
+.env
+*.sqlite3
+*.db
+
+# Archivos temporales
+*.log
+*.tmp
+
+# VSCode
+.vscode/
