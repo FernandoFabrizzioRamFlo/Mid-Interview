@@ -1,0 +1,934 @@
+[
+    {
+        "question": "¿Cuáles son los cinco tipos de sabores primarios?",
+        "answer": "El gusto es uno de nuestros cinco sentidos. Los sabores primarios son dulce, amargo, ácido, salado y umami."
+    },
+    {
+        "question": "¿Cuál es el lugar más frío de la tierra?",
+        "answer": "La Antártida, que está cubierta de capas con un espesor de entre dos mil y tres mil metros"
+    },
+    {
+        "question": "¿Quién escribió La Odisea?",
+        "answer": "Este poema de 24 cantos fue escrito por Homero."
+    },
+    {
+        "question": "¿Cómo se llama la capital de Mongolia?",
+        "answer": "La capital de Mongolia es Ulan Bator. El cociente intelectual (CI) medio de los habitantes de este país está entre los 10 más altos del mundo."
+    },
+    {
+        "question": "¿Cuál es el río más largo del mundo?",
+        "answer": "Aunque algunos pueden creer que es el Nilo… en realidad es el Amazonas."
+    },
+    {
+        "question": "¿Cómo se llama la Reina del Reino Unido?",
+        "answer": "La actual monarca británica se llama Isabel II."
+    },
+    {
+        "question": "¿En qué continente está Ecuador?",
+        "answer": "Ecuador es un país latinoamericano y, por tanto, se encuentra en América."
+    },
+    {
+        "question": "¿Dónde originaron los juegos olímpicos?",
+        "answer": "Se originaron en Grecia. Se llaman así porque se celebraban en la ciudad de Olimpia."
+    },
+    {
+        "question": "¿Qué tipo de animal es la ballena?",
+        "answer": "La ballena es un mamífero marino de hasta 30 metros de longitud."
+    },
+    {
+        "question": "¿De qué colores es la bandera de México?",
+        "answer": "La bandera de México está compuesta por tres colores: verde, blanco y rojo."
+    },
+    {
+        "question": "¿Qué cantidad de huesos en el cuerpo humano?",
+        "answer": "Un adulto tiene 206, mientras que los recién nacidos tienen alrededor de 300 huesos."
+    },
+    {
+        "question": "¿Cuándo acabó la II Guerra Mundial?",
+        "answer": "La II Guerra Mundial finalizó en 1945."
+    },
+    {
+        "question": "¿Quién es el autor de el Quijote?",
+        "answer": "El Quijote es una de las obras literarias más famosas, y fue escrita por Miguel de Cervantes."
+    },
+    {
+        "question": "¿Quién pintó “la última cena”?",
+        "answer": "El autor de esta magnífica pintura fue Leonardo da Vinci."
+    },
+    {
+        "question": "¿En qué país se encuentra la torre de Pisa?",
+        "answer": "La torre de Pisa es una torre inclinada que se encuentra en Italia."
+    },
+    {
+        "question": "¿Dónde se encuentra la Sagrada Familia?",
+        "answer": "Esta basílica católica se encuentra en la ciudad de Barcelona."
+    },
+    {
+        "question": "¿Qué son los humanos: omnívoros, herbívoros o carnívoros?",
+        "answer": "Los humanos somos omnívoros, pues nos alimentamos tanto de animales como de plantas."
+    },
+    {
+        "question": "¿Cómo se denomina el resultado de la multiplicación?",
+        "answer": "El resultado de la multiplicación se llama producto."
+    },
+    {
+        "question": "¿Cuál es el océano más grande?",
+        "answer": "El Océano Pacífico, con una superficie total de 165.700.000 km2"
+    },
+    {
+        "question": "¿Qué año llegó Cristóbal Colón a América?",
+        "answer": "La fecha en la Cristóbal Colón llegó a América es en 1492."
+    },
+    {
+        "question": "¿Quién es el padre del psicoanálisis?",
+        "answer": "El padre del psicoanálisis es Sigmund Freud. Puedes saber más sobre este personaje en nuestro artículo: “Sigmund Freud: vida y obra del célebre psicoanalista”."
+    },
+    {
+        "question": "¿Cuál es el disco más vendido de la historia?",
+        "answer": "El disco más vendido de la historia es Thriller, de Michael Jackson. Se estima que ha vendido entre 51 a 65 millones de álbumes."
+    },
+    {
+        "question": "¿Qué producto cultiva más Guatemala?",
+        "answer": "En Guatemala, el producto que más se cultiva es el café"
+    },
+    {
+        "question": "¿Quién es el famoso Rey de Rock en los Estados Unidos?",
+        "answer": "Elvis Presley es un personaje norteamericano que ha sido nombrado como el Rey del Rock"
+    },
+    {
+        "question": "¿Cómo se llama el nuevo presidente de los Estados Unidos?",
+        "answer": "El nuevo y polémico presidente de Estados Unidos es Donald Trump."
+    },
+    {
+        "question": "¿Qué significa FIFA?",
+        "answer": "Estas siglas significan: Fédération Internationale de Football Association. Es la institución que gobierna las federaciones de fútbol en todo el mundo. Se fundó el 21 de mayo de 1904 y tiene su sede en Zúrich, Suiza."
+    },
+    {
+        "question": "¿En qué se especializa la cartografía?",
+        "answer": "Es la ciencia que estudia los mapas."
+    },
+    {
+        "question": "¿Cuál es el país más grande del mundo?",
+        "answer": "Rusia es el país con mayor extensión: 17.075.200 km2."
+    },
+    {
+        "question": "¿Dónde se encuentra la famosa Torre Eiffel?",
+        "answer": "Esta estructura se encuentra en París, Francia."
+    },
+    {
+        "question": "¿Qué deporte practicaba Michael Jordan?",
+        "answer": "Michael Jordan es considerado el mejor jugador de baloncesto de todos los tiempos."
+    },
+    {
+        "question": "¿En qué año comenzó la II Guerra Mundial?",
+        "answer": "Este famoso conflicto bélico se inició en 1939."
+    },
+    {
+        "question": "Si 50 es el 100%, ¿cuánto es el 90%?",
+        "answer": "El resultado de esta regla de tres es 45."
+    },
+    {
+        "question": "¿Cuál es tercer planeta en el sistema solar?",
+        "answer": "Dentro del sistema solar, el planeta que ocupa el tercer puesto en cuanto a la distancia del sol es la Tierra."
+    },
+    {
+        "question": "¿Qué país tiene forma de bota?",
+        "answer": "El país que tiene forma de bota es Italia. Se encuentra en Europa."
+    },
+    {
+        "question": "¿Cuál es la moneda del Reino Unido?",
+        "answer": "La libra es la moneda del Reino unido En inglés se conoce como pound."
+    },
+    {
+        "question": "¿Cual es país más poblado de la Tierra?",
+        "answer": "El país más poblado de la Tierra es China con 1.383.488.571 de habitantes."
+    },
+    {
+        "question": "¿En qué lugar del cuerpo se produce la insulina?",
+        "answer": "En el páncreas es donde se produce la insulina."
+    },
+    {
+        "question": "¿Quién es Justin Timberlake?",
+        "answer": "Un cantante norteamericano, ex-integrante del grupo Nsync."
+    },
+    {
+        "question": "¿Cuál es el color que representa la esperanza?",
+        "answer": "El verde es el color que representa la esperanza."
+    },
+    {
+        "question": "¿Qué rama de la Biología estudia los animales?",
+        "answer": "La zoología es la encargada de estudiar la vida animal."
+    },
+    {
+        "question": "¿Cuál es el área del arte protagonista en los premios Grammy?",
+        "answer": "Los premios Grammy son galardones que se entregan como reconocimiento a los mejores músicos de cada año."
+    },
+    {
+        "question": "¿Cómo se llama el himno nacional de Francia?",
+        "answer": "El himno de la República Francesa es la Marsellesa"
+    },
+    {
+        "question": "¿De qué estilo arquitectónico es la Catedral de Notre Dame en París?",
+        "answer": "Este emblemático edificio es de estilo Gótico."
+    },
+    {
+        "question": "¿Con qué se fabricaba el pergamino?",
+        "answer": "El pergamino se fabrica con los piel de animales"
+    },
+    {
+        "question": "¿Cuántas patas tiene la araña?",
+        "answer": "El número de patas de las arañas es 8."
+    },
+    {
+        "question": "¿Cuál es la ciudad de los rascacielos?",
+        "answer": "Nueva York es conocida como la ciudad de los rascacielos por la altura de sus edificios."
+    },
+    {
+        "question": "¿De qué país es el futbolista Zlatan Ibrahimović?",
+        "answer": "El ahora jugador del Manchester United es sueco."
+    },
+    {
+        "question": "¿A qué país pertenecen los cariocas?",
+        "answer": "Los cariocas es el nombre que reciben las personas nacidas en Río de Janeiro en Brasil."
+    },
+    {
+        "question": "¿En qué país se encuentra el famoso monumento Taj Mahal?",
+        "answer": "Este monumento se encuentra en la India."
+    },
+    {
+        "question": "¿Cuál es el nombre de la lengua oficial en china?",
+        "answer": "El idioma oficial del país más poblado de la tierra es el mandarín."
+    },
+    {
+        "question": "¿Quién va a la cárcel: el imputado, el acusado, el condenado?",
+        "answer": "La persona que va a la cárcel es el condenado (en caso de que la condena conlleve una pena de privación de libertad, obviamente)."
+    },
+    {
+        "question": "¿Quién era el general de los nazis en la Segunda Guerra Mundial?",
+        "answer": "Adolf Hitler, uno de los personajes más tristemente recordados del siglo XX."
+    },
+    {
+        "question": "¿Cómo le llaman a los textos de autores desconocidos?",
+        "answer": "Cuando no se conoce al autor de un texto, entonces se dice que es anónimo."
+    },
+    {
+        "question": "¿Cuál fue el primer metal que empleó el hombre?",
+        "answer": "El primer metal empleado por el ser humano fue el cobre."
+    },
+    {
+        "question": "¿Cómo se llama la estación espacial rusa?",
+        "answer": "La estación espacial rusa recibe el nombre de Mir."
+    },
+    {
+        "question": "¿Qué instrumento óptico permite ver los astros de cerca?",
+        "answer": "Cuando queremos ver un astro de cerca, tenemos que usar un telescopio."
+    },
+    {
+        "question": "¿Cuál es el área del arte protagonista en los Premios Óscar?",
+        "answer": "Los Óscar son premios que se otorgan a las películas, actores, directores y, en general, a figuras del mundo del cine."
+    },
+    {
+        "question": "¿Cuál es el primero de la lista de los números primos?",
+        "answer": "El 2 es el primer número primo."
+    },
+    {
+        "question": "¿Cómo se le llama a una colección de revistas, diarios y publicaciones periódicas?",
+        "answer": "El nombre de las publicaciones periódicas o diarias de revistas o periódicos es la hemeroteca."
+    },
+    {
+        "question": "¿Cuál es el único mamífero capaz de volar?",
+        "answer": "El murciélago es un mamífero que tiene la capacidad de volar."
+    },
+    {
+        "question": "¿Cuál es el libro sagrado del Islam?",
+        "answer": "El corán es el libro sagrado de la religión musulmana."
+    },
+    {
+        "question": "¿Qué es más pequeño, un átomo o una molécula?",
+        "answer": "Un átomo tiene menores dimensiones que una molécula, puesto que las moléculas están hechas de átomos."
+    },
+    {
+        "question": "¿Qué grasas hacen tan saludable el aceite de oliva?",
+        "answer": "Las monoinsaturadas son grasas insaturadas que se encuentran en el aceite de oliva."
+    },
+    {
+        "question": "¿Qué era el Concorde?",
+        "answer": "Un avión supersónico utilizado para transportar a viajeros."
+    },
+    {
+        "question": "¿Quién ganó el mundial de 2014?",
+        "answer": "Alemania fue ganadora del mundial de Brasil en 2014."
+    },
+    {
+        "question": "¿Quién escribió “Hamlet”?",
+        "answer": "Hamlet fue una obra escrita por William Shakespeare que escribió a finales del siglo XVI"
+    },
+    {
+        "question": "¿Cuál es la moneda oficial de Estados Unidos?",
+        "answer": "En Estados Unidos se utiliza el Dólar como moneda."
+    },
+    {
+        "question": "¿A qué país pertenece la ciudad de Varsovia?",
+        "answer": "Polonia es una ciudad que se encuentra en Polonia, al este de Europa."
+    },
+    {
+        "question": "¿Cuál es la nacionalidad de Pablo Neruda?",
+        "answer": "El poeta Pablo Neruda nació en Chile. Si quieres saber más sobre este personaje, puedes leer nuestro artículo"
+    },
+    {
+        "question": "¿Qué veterano músico es la canción 'Tears in Heaven'?",
+        "answer": "Este famosos tema es del cantante Eric Clapton."
+    },
+    {
+        "question": "¿A quién le crecía la nariz cuando mentía?",
+        "answer": "La nariz le crecía a Pinocho, el famoso personaje de Disney."
+    },
+    {
+        "question": "La campana de Gauss está asociada a…",
+        "answer": "Se usa en el cálculo de probabilidades."
+    },
+    {
+        "question": "¿Quién traicionó a Jesús?",
+        "answer": "Según los escritos bíblicos, fue Judas quien traicionó a Jesús."
+    },
+    {
+        "question": "¿De qué estado fue emperador Napoleón Bonaparte?",
+        "answer": "Napoleón fue emperador de Francia."
+    },
+    {
+        "question": "¿Cómo se llama el proceso por el cual las plantas obtienen alimento?",
+        "answer": "Las plantas obtienen alimento a través de la Fotosíntesis."
+    },
+    {
+        "question": "¿Cómo se llama la energía contenida en el núcleo de los átomos?",
+        "answer": "Este tipo de energía es la energía nuclear."
+    },
+    {
+        "question": "¿Dónde está la Casa Blanca?",
+        "answer": "La Casa Blanca es el hogar presidencial del presidente de los Estados Unidos. Está ubicada en Washington D.C."
+    },
+    {
+        "question": "¿Qué día celebran los cristianos la festividad de la Epifanía de Jesús?",
+        "answer": "Esta fecha emblemática es el 6 de enero."
+    },
+    {
+        "question": "¿De qué está recubierto el cuerpo de los peces?",
+        "answer": "Las escamas cubren el cuerpo de los peces y otorgan a éstos protección y alimento."
+    },
+    {
+        "question": "¿Cuánto vale el número pi?",
+        "answer": "El número pi equivale a 3,1416."
+    },
+    {
+        "question": "¿Cuál es la capital de Croacia?",
+        "answer": "La capital de este país balcánico es Zagreb."
+    },
+    {
+        "question": "El triángulo que tiene sus tres lados iguales ¿Cómo se llama?",
+        "answer": "Recibe el nombre de triángulo equilátero"
+    },
+    {
+        "question": "¿Cuáles son las notas musicales?",
+        "answer": "Las notas musicales son: Do, re, mi, fa, sol, la, si."
+    },
+    {
+        "question": "¿Cuál es la capital de Dinamarca?",
+        "answer": "La capital de Dinamarca es Copenhague."
+    },
+    {
+        "question": "¿Quién es el protagonista de la película “Rocky”?",
+        "answer": "Sylvester Stallone es el actor de muchas películas de éxito, entre ellas, Rocky."
+    },
+    {
+        "question": "¿De qué lengua proviene el español?",
+        "answer": "El castellano es una lengua que proviene del latín."
+    },
+    {
+        "question": "¿Quién fue el presidente de España que gobernó desde el año 2011 hasta el 2018?",
+        "answer": "Mariano Rajoy fue el presidente del Gobierno España y pertenece al Partido Popular."
+    },
+    {
+        "question": "¿En qué país se usó la primera bomba atómica en combate?",
+        "answer": "La primer bomba atómica cayó en Japón, concretamente en Hiroshima."
+    },
+    {
+        "question": "¿Cuál es el metal más caro del mundo?",
+        "answer": "Aunque algunos piensen que es el oro o el platino, en realidad es el rodio."
+    },
+    {
+        "question": "¿Cuántos años tiene un lustro?",
+        "answer": "Un lustro es un quinquenio, es decir, un periodo de 5 años."
+    },
+    {
+        "question": "¿Qué es más grande un átomo o una célula?",
+        "answer": "Una célula tiene mayores dimensiones que un átomo."
+    },
+    {
+        "question": "¿Dónde se encuentra la capa de ozono?",
+        "answer": "El lugar donde se ubica la capa de ozono es la atmósfera."
+    },
+    {
+        "question": "¿Quién “sabía que no sabía nada”?",
+        "answer": "La frase se atribuye a Sócrates, pero fue Platón quien la recogió por primera vez, pues su autor no dejó testimonio escrito."
+    },
+    {
+        "question": "¿En qué país se encuentra la Universidad de Cambridge?",
+        "answer": "La Universidad de Cambridge es una de las más prestigiosas del mundo y se encuentra en el Reino Unido."
+    },
+    {
+        "question": "¿Qué es un ovíparo?",
+        "answer": "Un ovíparo es un un animal que nace de un huevo."
+    },
+    {
+        "question": "¿Cuál es la capital de Francia?",
+        "answer": "La capital de la República Francesa es París, la ciudad del amor."
+    },
+    {
+        "question": "¿Cuándo empezó la Primera Guerra Mundial?",
+        "answer": "El año de inicio de la Primera Guerra mundial es en 1914."
+    },
+    {
+        "question": "¿Qué deporte practica profesionalmente Roger Federer?",
+        "answer": "Roger Federer es uno de los mejores jugadores de tenis de la actualidad."
+    },
+    {
+        "question": "¿En qué país se encuentra el estadio de Wembley?",
+        "answer": "Wembley es un emblemático y conocido estadio que se encuentra en el Reino Unido, concretamente en Londres."
+    },
+    {
+        "question": "¿Qué instrumento tocaba Paco de Lucía?",
+        "answer": "Paco de Lucía es el mejor guitarrista flamenco de todos los tiempos."
+    },
+    {
+        "question": "¿Qué es un animal carnívoro?",
+        "answer": "Carnívoro es aquel animal que come carne."
+    },
+    {
+        "question": "¿Quién es el secretario general de la Organización de Naciones Unidas (ONU)?",
+        "answer": "António Guterres es el secretario general de la ONU en sustitución de Ban Ki Moon."
+    },
+    {
+        "question": "¿Cómo se llama el procedimiento de subir la bandera?",
+        "answer": "El procedimiento de subir la bandera se conoce como izar."
+    },
+    {
+        "question": "¿Cómo se llama el estadio del F.C. Barcelona?",
+        "answer": "El estadio del F.C. Barcelona es el Camp Nou, uno de los más grandes del mundo."
+    },
+    {
+        "question": "¿Qué enfermedad padeció Stephen Hawking?",
+        "answer": "La enfermedad que padeció este genio durante gran parte de su vida es la Esclerosis Lateral Amiotrófica (ELA)."
+    },
+    {
+        "question": "¿Cómo se llama el fundador de Facebook?",
+        "answer": "Mark Zuckerberg es el fundador de esta conocida red social."
+    },
+    {
+        "question": "¿En qué año se aprobó la actual Constitución española?",
+        "answer": "La Constitución española se aprobó en el año 1978."
+    },
+    {
+        "question": "¿Qué es un “ebook”?",
+        "answer": "Un libro en formato digital es lo que se conoce como “ebook”."
+    },
+    {
+        "question": "¿En qué isla está situado el Teide?",
+        "answer": "En Tenerife, en las Islas Canarias."
+    },
+    {
+        "question": "¿Cuáles son los dos países con mayor cantidad de musulmanes?",
+        "answer": "En dos regiones muy alejadas de África y del cercano oriente: Indonesia y la India."
+    },
+    {
+        "question": "¿Cuál es el ave voladora más grande del mundo en la actualidad?",
+        "answer": "¿Y la más pesada?\nLa más grande es el cóndor andino, mientras que la más pesada es la avutarda kori."
+    },
+    {
+        "question": "¿En qué año apareció en el mercado el primer videojuego protagonizado por Super Mario?",
+        "answer": "En el año 1981 apareció la máquina recreativa llamada Donkey Kong, protagonizada por Jumpman, el personaje que poco después, en el año 1985, sería conocido como Mario en el videojuego Super Mario Bros.\nLuis Guillermo Segura Herrera\nLuis Guillermo Segura Herrera\nMonterrey\nMariana Gutiérrez Flores\nMariana Gutiérrez Flores\nMonterrey\nXochitl Carmona\nXochitl Carmona\nMonterrey\nMariana Gutierrez Flores\nMariana Gutierrez Flores\nMonterrey\nAccede a una amplia red de psicólogos calificados. Empatía y experiencia a tu servicio."
+    },
+    {
+        "question": "¿Cuál es el animal que tiene mayor facilidad para repetir las frases y palabras que escucha?",
+        "answer": "Varias especies de cuervo se caracterizan por hablar mejor que los loros."
+    },
+    {
+        "question": "¿Cuál es el idioma más antiguo de los que sobreviven en Europa?",
+        "answer": "Se cree que es el vasco, hablado en una parte de España y de Francia. Dado que es el único idioma de Europa que no tiene una clara relación con ningún otro, los expertos estiman que su origen es anterior incluso al de los pueblos íberos y celtas."
+    },
+    {
+        "question": "¿Cuál es el país con más camellos salvajes?",
+        "answer": "Aunque no lo parezca, ese lugar es Australia, lugar en el que estos animales fueron introducidos por el ser humano."
+    },
+    {
+        "question": "¿Cuántos corazones tienen los pulpos?",
+        "answer": "Estos animales se caracterizan por tener 3 corazones."
+    },
+    {
+        "question": "¿Existen animales inmortales?",
+        "answer": "Técnicamente sí: la medusa Turritopsis nutricula no muere a no ser que la maten o sufra un accidente."
+    },
+    {
+        "question": "¿Cuál es el país con mayor porcentaje de budistas?",
+        "answer": "Es Camboya, lugar en el que más del 90% de la población es budista."
+    },
+    {
+        "question": "¿Cuándo se extinguieron los mamuts?",
+        "answer": "Se estima que este tipo de animal desapareció del planeta hace unos 4.000 años, cuando ya habían aparecido los primeros sistemas de escritura."
+    },
+    {
+        "question": "¿Quién fue Magic Johnson?",
+        "answer": "Magic Johnson fue un jugador de baloncesto profesional de la NBA."
+    },
+    {
+        "question": "¿En qué año se produce la Revolución Francesa?",
+        "answer": "Esta revolución estalla en el año 1789."
+    },
+    {
+        "question": "¿Cuántas estrellas aparecen en la bandera de la República Popular China?",
+        "answer": "En la bandera del gigante asiático aparecen cinco estrellas."
+    },
+    {
+        "question": "¿De qué país es originario el café?",
+        "answer": "El café es originario de Etiopía, país perteneciente al continente africano."
+    },
+    {
+        "question": "¿Qué selección nacional ha ganado más Copas Mundiales de Fútbol?",
+        "answer": "La selección más laureada de la historia es el combinado nacional de Brasil."
+    },
+    {
+        "question": "¿En qué año murió Steve Jobs?",
+        "answer": "Steve Jobs falleció en el año 2011."
+    },
+    {
+        "question": "¿Dónde se celebraron los Juegos Olímpicos del año 1992?",
+        "answer": "Los JJOO de 1992 tuvieron lugar en Barcelona, España."
+    },
+    {
+        "question": "¿Cuál era el nombre de pila del Che Guevara?",
+        "answer": "El nombre de pila del Che era “Ernesto”."
+    },
+    {
+        "question": "¿Cuál es el órgano más grande del cuerpo humano?",
+        "answer": "La piel es el órgano más grande de nuestro cuerpo."
+    },
+    {
+        "question": "¿Cuántas naciones conforman el Reino Unido?",
+        "answer": "El Reino Unido está formado por las naciones históricas de Inglaterra, Escocia, Gales e Irlanda del Norte."
+    },
+    {
+        "question": "¿En qué año viajó al espacio el primer ser humano?",
+        "answer": "El soviético Yuri Gagarin viajó por primera vez al espacio en 1961."
+    },
+    {
+        "question": "¿Qué cantante estadounidense es conocido como “The Boss”?",
+        "answer": "“The Boss” es el sobrenombre de Bruce Springsteen."
+    },
+    {
+        "question": "¿Cuál es el gentilicio de la ciudad de Valladolid?",
+        "answer": "El gentilicio de Valladolid es “vallisoletano” o bien “pucelano”."
+    },
+    {
+        "question": "¿Qué selección nacional de fútbol es conocida como “La Roja”?",
+        "answer": "Este sobrenombre se le da a la Selección Española de Fútbol."
+    },
+    {
+        "question": "¿Qué actriz ha ganado el mayor número de Premios Óscar?",
+        "answer": "La actriz que posee el mayor número de premios en su haber es Katharine Hepburn, con cuatro estatuillas."
+    },
+    {
+        "question": "¿En qué año llegó el ser humano a la Luna?",
+        "answer": "El ser humano llegó a la Luna en 1969."
+    },
+    {
+        "question": "¿Cómo se llama el estadio del Real Madrid?",
+        "answer": "El estadio del Real Madrid Club de Fútbol es el Santiago Bernabéu."
+    },
+    {
+        "question": "¿En qué año se produjeron los atentados sobre las Torres Gemelas de Nueva York?",
+        "answer": "Estos desgraciados atentados tuvieron lugar en el año 2001."
+    },
+    {
+        "question": "¿En qué año se inicia la Revolución Rusa?",
+        "answer": "La Revolución Rusa se inicia en el año 1917."
+    },
+    {
+        "question": "¿Cuál fue el primer presidente democrático de España tras la dictadura franquista?",
+        "answer": "El primer presidente español elegido democráticamente, tras la dictadura, fue Adolfo Suárez."
+    },
+    {
+        "question": "¿Cuántos lados tiene un hexágono?",
+        "answer": "Un hexágono es un polígono de seis lados."
+    },
+    {
+        "question": "¿Cuál es el Día de la Comunidad de Madrid?",
+        "answer": "El día de la Comunidad de Madrid es el 2 de mayo"
+    },
+    {
+        "question": "¿En qué país se encuentra la ciudad de Calcuta?",
+        "answer": "La ciudad de Calcuta se encuentra en la India."
+    },
+    {
+        "question": "¿Dónde se encuentra la Patagonia?",
+        "answer": "La Patagonia es una región geográfica situada en el extremo sur del Cono Sur, del continente americano."
+    },
+    {
+        "question": "¿En qué año se independizó la India del Imperio Británico?",
+        "answer": "La India se independizó en 1947."
+    },
+    {
+        "question": "¿Cuál es el himno de la Unión Europea?",
+        "answer": "El himno de la Unión Europea es la “Oda a la Alegría” de Friedrich von Schiller, musicalizada por Ludwig Van Beethoven."
+    },
+    {
+        "question": "¿En qué año murió Freddie Mercury?",
+        "answer": "Freddie Mercury murió en el año 1991."
+    },
+    {
+        "question": "¿Quién fue el presidente estadounidense al inicio de la Segunda Guerra Mundial?",
+        "answer": "El presidente de EEUU en 1939 era Franklin Delano Roosevelt."
+    },
+    {
+        "question": "¿Quién cantaba la canción “Hey Jude”?",
+        "answer": "La canción Hey Jude es obra de la banda “The Beatles”"
+    },
+    {
+        "question": "¿Qué día es la fiesta nacional de Estados Unidos?",
+        "answer": "La fiesta nacional en Estados Unidos es el 4 de julio."
+    },
+    {
+        "question": "¿Qué fue el “macartismo” estadounidense?",
+        "answer": "Se designa como “macartismo” a una serie de persecuciones ideológicas y acusaciones llevadas a cabo por el senador de EEUU Joseph McCarthy contra personas sospechosas de ser comunistas en los años 50."
+    },
+    {
+        "question": "¿Quién fue Mohamed Alí?",
+        "answer": "Mohamed Alí fue un célebre boxeador estadounidense, considerado por muchos como uno de los mejores de la historia."
+    },
+    {
+        "question": "¿En qué año cayó el muro de Berlín?",
+        "answer": "El muro de Berlín cayó en 1989."
+    },
+    {
+        "question": "¿De qué color es es la bandera nacional de Francia?",
+        "answer": "La bandera de Francia consta de los colores azul, blanco y rojo."
+    },
+    {
+        "question": "¿De qué nacionalidad es el actual Papa de Roma?",
+        "answer": "El Papa de Roma, Jorge Bergoglio, es argentino."
+    },
+    {
+        "question": "¿De quién es la canción “Love me Tender”?",
+        "answer": "La canción “Love me tender” fue compuesta por Elvis Presley."
+    },
+    {
+        "question": "¿Cuál es el “País del Sol Naciente”?",
+        "answer": "El País del Sol Naciente es Japón."
+    },
+    {
+        "question": "¿Dónde se queda todo lo que pasa en Las Vegas?",
+        "answer": "Lo que sucede en Las Vegas, se queda en Las Vegas."
+    },
+    {
+        "question": "¿Quién dirigió “El Lobo de Wall Street”?",
+        "answer": "El director de la película “El Lobo de Wall Street” es el cineasta estadounidense Martin Scorsese."
+    },
+    {
+        "question": "¿Cuál es la ciudad más poblada de Andalucía?",
+        "answer": "Es Sevilla, ciudad que a su vez es la capital de esta Comunidad Autónoma española."
+    },
+    {
+        "question": "¿Cuál es la capital de Bolivia?",
+        "answer": "Oficialmente es Sucre, aunque La Paz también es sede de varios órganos institucionales."
+    },
+    {
+        "question": "¿Cuál es la ciudad más poblada del estado de Texas?",
+        "answer": "A pesar de no ser la capital de Texas, Houston es su ciudad con mayor número de habitantes."
+    },
+    {
+        "question": "¿Cuál es el estado que tiene menos habitantes del mundo?",
+        "answer": "Ciudad del Vaticano. Esta ciudad-estado cuenta con menos de 1.000 habitantes."
+    },
+    {
+        "question": "¿Cuál es la bandera del mundo con más colores?",
+        "answer": "Sudáfrica y Sudán del Sur comparten este honor, al contar con un total de seis colores en sus respectivas banderas nacionales."
+    },
+    {
+        "question": "¿Cuál es el país menos poblado de África?",
+        "answer": "Las Seychelles, con menos de 100.000 habitantes."
+    },
+    {
+        "question": "¿Cuál es la capital de Aragón?",
+        "answer": "Zaragoza."
+    },
+    {
+        "question": "¿Aproximadamente, qué porcentaje del peso de un individuo pertenece a sus huesos?",
+        "answer": "Es un 12%, aproximadamente."
+    },
+    {
+        "question": "¿En qué país se encuentra la región de Transilvania?",
+        "answer": "En Rumanía."
+    },
+    {
+        "question": "¿En qué país se encuentra el rascacielos más alto del mundo?",
+        "answer": "Se encuentra en Dubai, Emiratos Árabes Unidos. El edificio en cuestión es conocido como Burj Khalifa, alzándose hasta los 828 metros."
+    },
+    {
+        "question": "¿En qué año se produjeron los atentados a las Torres Gemelas de Nueva York?",
+        "answer": "Fue en el año 2001, concretamente el día 11 de septiembre."
+    },
+    {
+        "question": "¿En qué año tuvo lugar la Revolución Francesa?",
+        "answer": "Fue en el año 1789."
+    },
+    {
+        "question": "¿Qué histórico político fundó el Partido Socialista Obrero Español?",
+        "answer": "Pablo Iglesias Posse, en el año 1879 concretamente."
+    },
+    {
+        "question": "¿Cuál es el país de América que tiene mayor población?",
+        "answer": "Estados Unidos de América, con más de 300 millones de habitantes."
+    },
+    {
+        "question": "¿De qué país es originario Borat Sagdiyev, el personaje de ficción creado por el actor Sacha Baron Cohen?",
+        "answer": "Es originario de Kazajistán."
+    },
+    {
+        "question": "¿Quién compuso la mítica canción \"Knockin’ on Heaven’s Door\"?",
+        "answer": "Bob Dylan."
+    },
+    {
+        "question": "¿Qué miembro de los Beatles compuso \"Yesterday\"?",
+        "answer": "Fue Paul McCartney."
+    },
+    {
+        "question": "¿Qué miembro de los Beatles fue asesinado en el año 1980?",
+        "answer": "John Lennon sufrió ese desgraciado final a manos de un fan perturbado que le disparó con un arma de fuego."
+    },
+    {
+        "question": "¿Cuál fue la causa de la muerte de Kurt Cobain, líder de la banda Nirvana?",
+        "answer": "Se suicidó a la edad de 27 años, en 1994."
+    },
+    {
+        "question": "¿Dónde se disputaron los Juegos Olímpicos en el año 1992?",
+        "answer": "Se celebraron en la ciudad de Barcelona."
+    },
+    {
+        "question": "¿Cuál es el gentilicio de los habitantes de Algeciras?",
+        "answer": "El gentilicio de esta localidad andaluza es algecireño, -a."
+    },
+    {
+        "question": "¿Cuál es la capital de Paraguay?",
+        "answer": "Asunción."
+    },
+    {
+        "question": "¿Qué famoso animal marsupial extinto y de aspecto similar al de un cánido surgió en Australia ocupando el nicho ecológico de los zorros?",
+        "answer": "Fue el lobo marsupial, o tilacino.\nTilacino"
+    },
+    {
+        "question": "¿Cuál es el continente más extenso del planeta?",
+        "answer": "Es Asia, con más de 44 millones de kilómetros cuadrados."
+    },
+    {
+        "question": "¿Cuál es el continente más pequeño en extensión?",
+        "answer": "Estamos hablando de Oceanía, con \"apenas\" 9 millones de kilómetros cuadrados."
+    },
+    {
+        "question": "¿Cuál es la universidad más antigua del mundo?",
+        "answer": "Se trata de la Universidad de Bolonia, en Italia, que empezó a funcionar en plena Edad Media, en el 1088. Sin embargo, dependiendo de la definición de universidad que usemos, la más antigua es la Universidad de Al-Karaouine, situada en Marruecos, que fue planteada como institución educativa religiosa del estilo \"madraza\"."
+    },
+    {
+        "question": "¿Cómo se llama el primer país en colonizar el territorio de lo que hoy se conoce como Alaska?",
+        "answer": "Fue Rusia, que estableció ahí una colonia del 1799 al 1867."
+    },
+    {
+        "question": "¿Cuál es la única especie de oso que habita en la Europa continental?",
+        "answer": "La única especie de oso que existe de manera salvaje en Europa es el oso pardo, Ursus arctos."
+    },
+    {
+        "question": "¿Quién inventó la imprenta?",
+        "answer": "Fue Johannes Gutenberg, quien desarrolló esta tecnología en el año 1400 en Mainz, en lo que hoy es Alemania."
+    },
+    {
+        "question": "¿En qué continentes podemos encontrar marsupiales salvajes?",
+        "answer": "Fundamentalmente en el continente de Australia y en América, aunque en las últimas décadas han surgido poblaciones introducidas incluso en Europa."
+    },
+    {
+        "question": "¿Cómo se llama la parte del ojo que es sensible a la luz?",
+        "answer": "Es la retina, ubicada en la parte interna del globo ocular."
+    },
+    {
+        "question": "¿En qué movimiento artístico se encuadra al pintor Pierre-Auguste Renoir?",
+        "answer": "Forma parte del movimiento impresionista."
+    },
+    {
+        "question": "¿Cuál es el único país europeo en el que existe una población salvaje de primates no humanos?",
+        "answer": "Es Reino Unido, ya que en Gibraltar existe una población de macaco de berbería (Macaca sylvanus)."
+    },
+    {
+        "question": "¿Cómo se llama el arte marcial usado por las Fuerzas de Defensa y Seguridad israelíes?",
+        "answer": "Es el krav magá, arte marcial creado por Imi Lichtenfeld en los años 30 el siglo XX."
+    },
+    {
+        "question": "¿Cuál fue la primera película de la Historia?",
+        "answer": "La primera película filamada y proyectada fue \"La salida de la fábrica Lumière en Lyon\", creada por los hermanos Lumière en el año 1895."
+    },
+    {
+        "question": "¿Cómo se llama la zona de intercambio de aguas que queda en la fisura entre las placas tectónicas Africana y Euroasiática?",
+        "answer": "Se trata del estrecho de Gibraltar, ubicado al Sur e España y al Norte de Marruecos."
+    },
+    {
+        "question": "¿Cómo se llama la única especie de loro existente hoy en día que no puede volar?",
+        "answer": "Es el kákapu o kákapo, un ave de Nueva Zelanda."
+    },
+    {
+        "question": "¿Quién fue el primer dirigente de la Unión de Repúblicas Socialistas Soviéticas?",
+        "answer": "Fue Vladímir Ilich Uliánov, alias Lenin."
+    },
+    {
+        "question": "¿Qué líder helénico es conocido por haber liderado la conquista de buena parte del Sur de Asia durante la Antigüedad?",
+        "answer": "Alejandro Magno, rey de Macedonia, realizó una de las campañas de conquista más exitosas de esta época, llegando hasta la India."
+    },
+    {
+        "question": "¿Cuál es el álbum musical más vendido de la Historia hasta hoy en día?",
+        "answer": "Se trata del disco \"Thriller\", de Michael Jackson."
+    },
+    {
+        "question": "¿Cómo se llama el satélite más grande de Saturno?",
+        "answer": "Su nombre es Titán, un satélite tan grande que tiene su propia atmósfera."
+    },
+    {
+        "question": "¿Cuál es el animal de dieta insectívora más grande que encontramos hoy en día en África?",
+        "answer": "Es el cerdo hormiguero, que pesa entre 40 y 65 kg."
+    },
+    {
+        "question": "¿Cómo se llama el grupo étnico que hoy en día vive sobre todo en Hokkaidō, la isla de Sajalín y la zona norte de Honshu, y que muestra diferencias genéticas significativas con el resto de habitantes de Japón?",
+        "answer": "Son los ainus, también llamados ezo o yezo,"
+    },
+    {
+        "question": "¿Cuál es la selva más grande del mundo?",
+        "answer": "Se trata de la selva amazónica, la cual cubre aproximadamente el 40% de Sudamérica."
+    },
+    {
+        "question": "¿Cuál es son los tipos de átomos que componen la molécula de la glucosa?",
+        "answer": "Son el oxígeno, el carbono y el hidrógeno.\nEl agua tiene dos átomos de hidrógeno y uno de oxígeno."
+    },
+    {
+        "question": "¿Cómo se llama el choque bélico que ocurrió entre Persia y las polis de la Antigua Grecia entre el 490 a. C. y el a. C.?",
+        "answer": "Este evento histçorico es conocido como las guerras médicas."
+    },
+    {
+        "question": "¿En qué idioma están escritos los textos del Nuevo Testamento?",
+        "answer": "Los textos más antiguos que conforman esta parte de la Biblia están en griego koiné."
+    },
+    {
+        "question": "¿Cuál es el país más poblado de África?",
+        "answer": "Es, con diferencia, Nigeria, el cual tiene más de 200 millones de habitantes."
+    },
+    {
+        "question": "¿Qué dos bandos se enfrentaron en la guerra que tuvo lugar en la parte occidental de Europa y que terminó entre el año 1714 y el 1715?",
+        "answer": "En la guerra de sucesión española se enfrentaron los borbónicos y los austracistas, quienes defendían a diferentes candidatos a ser el rey de España."
+    },
+    {
+        "question": "¿Cómo se llama la espada de filo curvado característico de los habitantes de la Iberia prerromana?",
+        "answer": "Es la falcata, que normalmente tenía un solo filo."
+    },
+    {
+        "question": "¿Qué famosa filósofa de Egipto fue líder de la escuela neoplatónica de Alejandría en el siglo V?",
+        "answer": "Fue Hipatia, una de las grandes pensadoras de la Edad Antigua."
+    },
+    {
+        "question": "¿Cuál es el nombre del método de propagación vegetal que consiste en hacer aparecer raíces en determinadas ramas de una planta?",
+        "answer": "Es el acodo, muy usado en el mundo de la jardinería y la agricultura."
+    },
+    {
+        "question": "¿Qué famoso grupo musical y humorístico surgió en Buenos Aires en el año 1967?",
+        "answer": "Son Les Luthiers, uno de los máximos exponentes del ámbito cultural de Argentina."
+    },
+    {
+        "question": "¿Cómo se llama la especie de animal mamífero de vida semiacuática que pone huevos y sigue existiendo en la actualidad?",
+        "answer": "Es el ornitorrinco, uno de los representantes del orden de los monotremas, los cuales ponen huevos."
+    },
+    {
+        "question": "¿Cuál es el avión de combate más rápido del mundo?",
+        "answer": "El Lockheed SR-71 Blackbird. Este avión de reconocimiento, que alcanzaba velocidades superiores a Mach 3, es considerado el avión tripulado más rápido jamás construido."
+    },
+    {
+        "question": "¿Cuándo se celebra el famoso carnaval de Brasil?",
+        "answer": "Este célebre carnaval conocido en todo el mundo se celebra a finales de febrero o principios de marzo"
+    },
+    {
+        "question": "¿Quién cantaba “New York, New York”?",
+        "answer": "Esta canción fue popularizada por el cantante estadounidense Frank Sinatra."
+    },
+    {
+        "question": "¿Qué día es la fiesta nacional de la República Francesa?",
+        "answer": "La fiesta nacional de Francia es el 14 de julio."
+    },
+    {
+        "question": "¿Quién interpretó a “El Padrino” en la gran pantalla?",
+        "answer": "Fue el gran actor estadounidense Marlon Brando."
+    },
+    {
+        "question": "¿Quién escribió “100 años de soledad”?",
+        "answer": "Fue el colombiano Gabriel García Márquez."
+    },
+    {
+        "question": "¿Cuál es la película más taquillera de la historia?",
+        "answer": "La película más taquillera sin ajustes por la inflación histórica es “Avatar”, de James Cameron."
+    },
+    {
+        "question": "¿Cuánto dura cada una de las dos partes de un partido de fútbol?",
+        "answer": "Cada una de las partes de un encuentro de fútbol dura 45 minutos."
+    },
+    {
+        "question": "¿Quién tiene el récord mundial de medallas olímpicas?",
+        "answer": "Michael Phelps. El nadador estadounidense Michael Phelps ha ganado un total de 28 medallas olímpicas, 23 de ellas de oro, lo que lo convierte en el deportista más laureado en la historia de los Juegos Olímpicos."
+    },
+    {
+        "question": "¿Quién fue Pocahontas?",
+        "answer": "Fue una nativa americana hija del Jefe Powhatan, quien gobernaba su tribu en la actual Virginia (EEUU)."
+    },
+    {
+        "question": "¿Quién escribió “Ulises”?",
+        "answer": "“Ulises” es una novela publicada en 1922 por James Joyce."
+    },
+    {
+        "question": "¿Quién fue el primer emperador romano?",
+        "answer": "Augusto. Nacido como Cayo Julio César Octaviano, fue el primer emperador de Roma, reinando desde el 27 a.C. hasta su muerte en el 14 d.C. Su gobierno marcó el inicio del Imperio Romano."
+    },
+    {
+        "question": "¿Qué son las arterias y cómo se diferencian de las venas?",
+        "answer": "Las arterias son vasos sanguíneos que transportan la sangre rica en oxígeno desde el corazón hacia el resto del cuerpo. Las venas, en cambio, devuelven la sangre desoxigenada al corazón."
+    },
+    {
+        "question": "¿Quién fue el primer piloto en ganar siete campeonatos mundiales de Fórmula 1?",
+        "answer": "Michael Schumacher. El piloto alemán Michael Schumacher fue el primero en ganar siete títulos mundiales de Fórmula 1, un récord que comparte con Lewis Hamilton."
+    },
+    {
+        "question": "¿Qué son los alvéolos y dónde se encuentran?",
+        "answer": "Los alvéolos son pequeños sacos de aire en los pulmones donde ocurre el intercambio de gases. El oxígeno del aire inhalado pasa a la sangre y el dióxido de carbono de la sangre se exhala."
+    },
+    {
+        "question": "¿Quién fue el último faraón de Egipto?",
+        "answer": "Cleopatra VII. Cleopatra fue la última gobernante de la dinastía ptolemaica de Egipto y su reinado finalizó con la conquista romana en el año 30 a.C."
+    },
+    {
+        "question": "¿Cuál es la montaña más alta del planeta?",
+        "answer": "Es el Everest, con 8.849 metros de altura."
+    },
+    {
+        "question": "¿Qué país ganó el primer Mundial de Fútbol?",
+        "answer": "El primer Mundial de Fútbol se celebró en 1930 en Uruguay, y fue ganado por el país anfitrión."
+    },
+    {
+        "question": "¿Quién fue el primer presidente de los Estados Unidos?",
+        "answer": "George Washington. Fue el primer presidente de los Estados Unidos, sirviendo desde 1789 hasta 1797, y es considerado uno de los padres fundadores del país."
+    },
+    {
+        "question": "¿Cuál fue la batalla más larga de la Primera Guerra Mundial?",
+        "answer": "La Batalla de Verdún. Esta batalla, librada entre las fuerzas alemanas y francesas, duró desde febrero hasta diciembre de 1916 y es una de las más largas y sangrientas de la guerra."
+    },
+    {
+        "question": "¿Qué país ha ganado más medallas en los Juegos Olímpicos de Invierno?",
+        "answer": "Noruega. Noruega ha ganado más medallas en los Juegos Olímpicos de Invierno que cualquier otro país, destacándose en deportes como el esquí de fondo y el biatlón."
+    }
+]

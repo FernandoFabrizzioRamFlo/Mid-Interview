@@ -3,19 +3,29 @@ from app.Models.Entry import Entry
 from app.Models.SearchQuery import SearchQuery
 from app.Handlers import faq_handler as faqH
 from fastapi import APIRouter, Depends
-from sqlmodel import Session
+from sqlmodel import Session, select
 
 router = APIRouter()
-
-@router.post("/api/faq/add")
-def add_faq(entry: Entry,session: Session = Depends(sqlite_connection.get_session)):
+#Ruta para crear una Q&A
+@router.post("/api/faq")
+def add_faqC(entry: Entry,session: Session = Depends(sqlite_connection.get_session)):
     return faqH.create_faq(entry,session)
 
-@router.post("/api/faq/search")
-def search_faq(req: SearchQuery, session: Session = Depends(sqlite_connection.get_session)):
-    entries = session.query(Entry).all()
-    return faqH.search_faq(req,session,entries)
+#Ruta para buscar una pregunta similar.
+@router.post("/api/search")
+def search_faqC(req: SearchQuery, session: Session = Depends(sqlite_connection.get_session)):
+    try:
+        entries = session.exec(select(Entry)).all()
+        return faqH.search_faq(req,entries)
+    except Exception as e:
+        return {"status": "error", "detail": str(e)}
 
-#@router.post("api/faq/plant-seed")
-#def populate_faq(req:json):
-#    return faH.create_faq(req)
+#Ruta para restaurar base de datos con la semilla.
+@router.post("/api/faq/reset")
+def reset_faqC(session: Session = Depends(sqlite_connection.get_session)):
+    return faqH.reset_faq(session)
+
+#Ruta para obtener todas las preguntas (testing)
+@router.get("/api/faq/all")
+def get_all_faqC(session: Session = Depends(sqlite_connection.get_session)):
+    return faqH.get_all(session)
