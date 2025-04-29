@@ -1,0 +1,6 @@
+numpy
+fastapi
+uvicorn
+mmh3
+sqlmodel
+python-dotenv
