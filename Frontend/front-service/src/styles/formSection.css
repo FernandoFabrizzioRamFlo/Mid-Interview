@@ -1,0 +1,21 @@
+.FormSection-Container{
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+    width: 100%;
+    height: auto;
+   
+}
+.form-Container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+.Input{
+    width: 100%;
+    background-color: rgb(220, 220, 220);
+    padding: 1%;
+    height: fit-content;
+    
+}

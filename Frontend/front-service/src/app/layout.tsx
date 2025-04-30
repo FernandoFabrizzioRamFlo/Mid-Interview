@@ -1,9 +1,19 @@
 import type { Metadata } from "next";
-//importar aquí fuentes de google
-//import { Geist, Geist_Mono } from "next/font/google";
+import { Manrope } from 'next/font/google';
+import { Playfair_Display } from "next/font/google";
 import "./globals.css";
+import "../styles/header.css";
 
-
+const manrope = Manrope({
+  subsets: ["latin"],
+  weight: ["200", "300", "400", "500", "600", "700", "800"],
+  variable: "--font-manrope",
+});
+const playfair = Playfair_Display({
+  subsets: ["latin"],
+  weight: ["400", "700", "900"],
+  variable: "--font-playfair",
+});
 
 export const metadata: Metadata = {
   title: "Q-Finder - buscador de preguntas y respuestas",
@@ -17,7 +27,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body>
+      <body className={`${manrope.variable} ${playfair.variable} font-sans`}>
         {children}
       </body>
     </html>
