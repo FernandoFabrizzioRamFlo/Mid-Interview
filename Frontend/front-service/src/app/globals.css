@@ -1,0 +1,33 @@
+@config "../../tailwind.config.ts";  
+@import "tailwindcss";
+
+
+:root {
+  --darkestBackground: #141b41;
+  --darkBlue: #306bac;
+  --midBlue: #6F9CEB;
+  --lightBlue: #98B9F2;
+  --contrastPurple: #918EF4; 
+  --fontTitleSize: 30px;
+  --fontSubTitleSize:25px;
+  --fontBodySize: 20px;
+}
+html {
+  scroll-behavior: smooth;
+}
+.Title-text{
+  font-family: var(--fon-manrope);
+  font-size: var(--fontTitleSize);
+  font-weight: 600;
+  margin-bottom: 1%;
+
+}
+.Body-text{
+  font-family: var(--fon-manrope);
+  font-size: var(--fontBodysize);
+}
+
+.SubTitle-text{
+  font-family: var(--fon-manrope);
+  font-size: var(--fontSubTitleSize);
+}

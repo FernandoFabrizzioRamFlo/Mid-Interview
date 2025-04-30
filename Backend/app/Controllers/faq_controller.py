@@ -29,3 +29,11 @@ def reset_faqC(session: Session = Depends(sqlite_connection.get_session)):
 @router.get("/api/faq/all")
 def get_all_faqC(session: Session = Depends(sqlite_connection.get_session)):
     return faqH.get_all(session)
+
+@router.get("/api/faq/{id}")
+def get_one(id:int,session: Session = Depends(sqlite_connection.get_session)):
+    try:
+        entry = session.exec(select(Entry).where(Entry.id == id)).first()
+        return entry
+    except Exception as e:
+        return {"status": "error", "detail": str(e)}

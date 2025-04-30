@@ -8,7 +8,7 @@ FROM python:3.11-alpine
 RUN apk add --no-cache gcc musl-dev
 
 #Actualizo versión de gestor de paquetes de python.
-RUN py -m pip install --upgrade pip 
+RUN python -m pip install --upgrade pip 
 
 #Accedo a la carpeta donde se ejecutará el código
 WORKDIR /Backend

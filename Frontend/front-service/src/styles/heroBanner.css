@@ -1,0 +1,8 @@
+.Hero-Banner-Container{
+    display: flex;
+    width: 100%;
+    height: 400px;
+    background-color: var(--darkBlue);
+    background-image: url("../../public/heroBannerimg.jpg");
+    background-size: cover;
+}

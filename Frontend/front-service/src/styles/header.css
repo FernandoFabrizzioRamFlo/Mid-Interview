@@ -1,0 +1,39 @@
+    .Header-Contaier {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 2%;
+        background-color: var(--darkestBackground);
+        position:fixed;
+    }
+
+    .Header-Left-Column {
+        display: flex;
+        width: 70%;
+        flex-direction: row;
+        justify-content: left;
+        align-items: center;
+
+    }
+
+    .Header-Right-Column {
+        display: flex;
+        width: 30%;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .Header-Title{
+        font-family: var(--font-playfair);
+        color: white;
+        font-size: var(--fontTitleSize);
+
+    }
+    .Header-Button-Text{
+        font-family: var(--font-manrope);
+        color: white;
+        font-size: var(--fontSubTitleSizze);
+    }
