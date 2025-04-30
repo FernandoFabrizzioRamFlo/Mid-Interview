@@ -27,7 +27,7 @@ export default function FormSection({formuse}: Props){
 
         if(formuse ==="create"){
             try{
-                const res = await fetch("http://backend:8000/api/faq",{
+                const res = await fetch("http://localhost:8000/api/faq",{
                     method:"POST",
                     headers:{"Content-Type": "application/json" },
                     body: JSON.stringify({"question":question,"answer":answer}),
