@@ -1,11 +1,15 @@
-
 type FAQ = {
     question: string;
     answer: string;
 };
 
-export default async function Page({ params }: { params: { id: string } }) {
-    const res = await fetch(`http://localhost:8000/api/faq/${params.id}`, {
+interface PageProps {
+    params: {
+        id: string;
+    };
+}
+export default async function Page({ params }: PageProps) {
+    const res = await fetch(`http://backend:8000/api/faq/${params.id}`, {
         cache: "no-store",
     });
 

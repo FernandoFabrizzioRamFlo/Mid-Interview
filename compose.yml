@@ -8,6 +8,6 @@ services:
   frontend:  
     build: ./Frontend/front-service
     ports:
-      - 4000:4000
+      - 3000:4000
     depends_on:
       - backend
