@@ -9,7 +9,7 @@ interface PageProps {
     };
 }
 export default async function Page({ params }: PageProps) {
-    const res = await fetch(`http://backend:8000/api/faq/${params.id}`, {
+    const res = await fetch(`http://localhost:8000/api/faq/${params.id}`, {
         cache: "no-store",
     });
 
