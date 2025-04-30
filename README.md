@@ -7,7 +7,7 @@ Objetivos:
 Para ejecución:
 1. Clonar repositorio.
 2. ejecutar docker compose up --build.
-3. acceder a http://localhost:4000/ desde un web browser.
+3. acceder a http://localhost:3000/ desde un web browser.
    
 ### Hashing Trick / Feature Hashing    
 1. Se concatenan pregunta + respuesta.
