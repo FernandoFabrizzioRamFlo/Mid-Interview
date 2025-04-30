@@ -5,7 +5,7 @@ WORKDIR /Frontend/front-service
 COPY package.json package-lock.json ./
 RUN npm install
 COPY . .
-# Construye la aplicación
-RUN npm run build
+
 EXPOSE 4000
-CMD ["npm", "run", "start"]
+#problemas de configuraciones de next impiden ejecutar build. Se opta por ejecutar dev como prototipo. 
+CMD ["npm", "run", "dev"]

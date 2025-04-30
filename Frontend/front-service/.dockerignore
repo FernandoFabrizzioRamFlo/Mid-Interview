@@ -1,5 +1,5 @@
-app/devEnv/
-.gitignorenode_modules
+.gitignore
+node_modules
 .next
 Dockerfile
 .dockerignore
@@ -9,4 +9,3 @@ npm-debug.log
 yarn-error.log
 .vscode
 *.tsbuildinfo
-__pycache__
